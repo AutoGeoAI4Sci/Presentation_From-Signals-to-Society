@@ -212,7 +212,7 @@ GeoAI · Spatial Data Science · Human Dynamics · Urban Analytics · Environmen
 
 ---
 
-# TAMU #DataScience #GeoAI #UrbanAnalytics #HumanDynamics #TAMIDS #GIScience
+### TAMU #DataScience #GeoAI #UrbanAnalytics #HumanDynamics #TAMIDS #GIScience
 
 
 
